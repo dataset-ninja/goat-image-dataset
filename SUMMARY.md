@@ -1,4 +1,4 @@
-**Goat Image Dataset** is a dataset for object detection and classification tasks. It is used in the livestock industry, and in the biological research. 
+**Goat Image Dataset** is a dataset for object detection and identification tasks. It is used in the livestock industry, and in the biological research. 
 
 The dataset consists of 1767 images with 13761 labeled objects belonging to 4 different classes including *face*, *ear*, *eye*, and other: *mouth*.
 
