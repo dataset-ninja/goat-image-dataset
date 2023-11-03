@@ -64,6 +64,7 @@ REPOSITORY: Optional[Union[str, List[str], Dict[str, str]]] = None
 
 CITATION_URL: Optional[str] = "https://data.mendeley.com/datasets/4skwhnrscr/2"
 AUTHORS: Optional[List[str]] = ["Masum Billah", "Yu Jiantao", "Yu Jiang"]
+AUTHORS_CONTACTS: Optional[List[str]] = ["yu.jiang@nwafu.edu.cn"]
 
 ORGANIZATION_NAME: Optional[Union[str, List[str]]] = "Northwest A&F University, China"
 ORGANIZATION_URL: Optional[Union[str, List[str]]] = "https://en.nwsuaf.edu.cn/"
@@ -118,6 +119,7 @@ def get_settings():
     settings["repository"] = REPOSITORY
     settings["citation_url"] = CITATION_URL
     settings["authors"] = AUTHORS
+    settings["authors_contacts"] = AUTHORS_CONTACTS
     settings["organization_name"] = ORGANIZATION_NAME
     settings["organization_url"] = ORGANIZATION_URL
     settings["slytagsplit"] = SLYTAGSPLIT
