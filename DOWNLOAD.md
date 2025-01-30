@@ -1,6 +1,6 @@
 Dataset **Goat Image** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://www.dropbox.com/scl/fi/vcb6dhq3bbdlzowr2a4q8/goat-image-DatasetNinja.tar?rlkey=j4sx9rfglskm8qrpr8iorhgsr&dl=1)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzIxOTdfR29hdCBJbWFnZS9nb2F0LWltYWdlLURhdGFzZXROaW5qYS50YXIiLCAic2lnIjogIi9Nb3FWQk02blFXQ1R3aUVsVUR1OWk3YmpuN2ZscVpSczNzdTVLa0FrRlU9In0=)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
